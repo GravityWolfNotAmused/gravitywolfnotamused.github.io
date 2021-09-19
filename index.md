@@ -24,12 +24,11 @@ Project Accomplishments:
 
 # Job History
 
-Sales Associate - Many Companies **(2008 - November 2020)**
-- Team Building
-- Training of newly hired employees
-- Product research
-- Troubleshooting of products sold
-- Inventory tracking and ordering
+[Product Owner](https://www.assemblylegal.com) **(September 2021 - Present)**
+- Sprint Planning
+- Backlog Organization
+- User Story and Feature writing
+- Grooming
 
 [Technical Support Specialist](https://www.assemblylegal.com) **(Nov 2020 – September 2021)**
 - Database Management
@@ -38,8 +37,9 @@ Sales Associate - Many Companies **(2008 - November 2020)**
 - Software Installations
 - Server Migrations
 
-[Product Owner](https://www.assemblylegal.com) **(September 2021 - Present)**
-- Sprint Planning
-- Backlog Organization
-- User Story and Feature writing
-- Grooming
+Sales Associate - Many Companies **(2008 - November 2020)**
+- Team Building
+- Training of newly hired employees
+- Product research
+- Troubleshooting of products sold
+- Inventory tracking and ordering
