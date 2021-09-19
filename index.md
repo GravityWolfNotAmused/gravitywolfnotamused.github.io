@@ -15,7 +15,7 @@ My name is Larry, and I am a self taught programmer. I have wrote mods for games
 - Creation of third party systems to enhance gameplay, and/or user experience • Testing, Troubleshooting, and Debugging of Environment.
 - Teaching other community members how to understand Enfusion, and how to script their concepts / ideas into their own mod.
 
-Project Accomplishments: 
+### Project Accomplishments: 
 - 2.2 Million Subscribers across all VPP Content
 - 94,000+ Unique players across all VPP Platforms
 - 2,000+ Unique weekly players on VPP Deathmatch
