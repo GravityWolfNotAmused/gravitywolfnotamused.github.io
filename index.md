@@ -2,122 +2,42 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
+My name is Larry, and I am a self taught programmer. I have wrote mods for games such as Gmod, DayZ Standalone, and S&ndbox.
 
-[Link to another page](./another-page.html).
+# Project History
 
-There should be whitespace between paragraphs.
+[Vanilla Plus Plus DayZ](https://www.dayzvpp.com/) (November 2018 - Present)
+Includes VPP Deathmatch, VPP Admin Tools, VPP Map, VPP Survival Servers, Etc 
+- Planning, design, and implementation of full stack features 
+- MYSQL Database Management, using Discord API, and REST API 
+- Creation of third party systems to enhance gameplay, and/or user experience • Testing, Troubleshooting, and Debugging of Environment 
+- Teaching other community members how to understand Enfusion, and how to script their concepts / ideas into their own mod.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Project Accomplishments: 
+- 2.2 Million Subscribers across all VPP Content 
+- 94,000+ Unique players across all VPP Platforms 
+- 2,000+ Unique weekly players on VPP Deathmatch 
+- 45th most popular server (according to BattleMetrics)
 
 
-### Definition lists can be used with HTML syntax.
+# Job History
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Sales Associate - Many Companies **(2008 - November 2020)**- level 1 item• Team Building 
+- Training of newly hired employees 
+- Product research 
+- Troubleshooting of products sold 
+- Inventory tracking and ordering
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[Technical Support Specialist](https://www.assemblylegal.com) **(Nov 2020 – September 2021)**
+- Database Management
+- Software Troubleshooting
+- System Maintenance
+- Software Installations
+- Server Migrations
 
-```
-The final element.
-```
+[Product Owner](https://www.assemblylegal.com) **(September 2021 - Present)**
+- Sprint Planning
+- Backlog Organization
+- User Story and Feature writing
+- Grooming
