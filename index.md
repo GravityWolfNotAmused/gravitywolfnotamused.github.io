@@ -24,13 +24,13 @@ My name is Larry, and I am a self taught programmer. I have wrote mods for games
 
 # Job History
 
-[Product Owner](https://www.assemblylegal.com) **(September 2021 - Present)**
+Product Owner **(September 2021 - Present)**
 - Sprint Planning
 - Backlog Organization
 - User Story and Feature writing
 - Grooming
 
-[Technical Support Specialist](https://www.assemblylegal.com) **(Nov 2020 – September 2021)**
+Technical Support Specialist **(Nov 2020 – September 2021)**
 - Database Management
 - Software Troubleshooting
 - System Maintenance
